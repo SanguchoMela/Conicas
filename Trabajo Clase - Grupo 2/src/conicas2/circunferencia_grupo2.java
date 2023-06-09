@@ -1,3 +1,5 @@
+package conicas2;
+
 public class circunferencia_grupo2 {
 
     private float radio_cir; //El radio del circulo

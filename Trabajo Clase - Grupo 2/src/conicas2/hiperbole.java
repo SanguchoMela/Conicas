@@ -1,3 +1,5 @@
+package conicas2;
+
 //Calculo Hiiperbole basica
 public class hiperbole {
     private double a_hip,b_hip, c_hip ,Lr_hip;//Variables

@@ -1,3 +1,5 @@
+package conicas2;
+
 //Clase Parabola
 public class Parabola_Equipo2{
 

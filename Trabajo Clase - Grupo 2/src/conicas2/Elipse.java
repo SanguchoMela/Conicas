@@ -1,3 +1,5 @@
+package conicas2;
+
 public class Elipse {
     // Creacion de los atributos
 
