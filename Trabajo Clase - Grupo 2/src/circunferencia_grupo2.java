@@ -12,6 +12,8 @@ public class circunferencia_grupo2 {
         this.angulo_central = angulo_central;
     }
 
+
+
     //Getters y setters
 
     private float getAngulo_central() {
