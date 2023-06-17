@@ -58,7 +58,7 @@ public class Main {
                     break;
                 case 5:
                     salir = true;
-                    System.out.println("\nAdios\n");
+                    System.out.println("\nPrograma terminado!\n");
                     break;
                 default:
                     System.out.println("\nError\n");
