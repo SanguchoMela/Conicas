@@ -7,7 +7,7 @@ Nota: Los valores para la ejecución de los diversos métodos definidos en las d
 # Menú principal
 Se repetirá s lo largo de la ejecución del programa a menos que se seleccione la opcion Salir 
 ![image](https://github.com/SanguchoMela/Conicas_Packages/assets/117743859/6b1151b4-f80b-4a36-a0f0-35605c4d6067)
-Para la opcion 1: Circunferencia
+## Para la opcion 1: Circunferencia
 ![image](https://github.com/SanguchoMela/Conicas_Packages/assets/117743859/fe663453-738e-42dd-9ed2-b490c9d07f78)
 Para la opcion 2: Elipse
 ![image](https://github.com/SanguchoMela/Conicas_Packages/assets/117743859/85b0965f-826e-4041-b7f1-b9206b2fcce5)
