@@ -41,8 +41,8 @@ public class Main {
                     System.out.println("\nHIPERBOLE");
 
                     System.out.println("Datos registrados:");
-                    System.out.println("Parametro a = "+miHiperbole.getA());
-                    System.out.println("Parametro b = "+miHiperbole.getB());
+                    System.out.println("\tParametro a = "+miHiperbole.getA());
+                    System.out.println("\tParametro b = "+miHiperbole.getB());
 
                     miHiperbole.variables();
 
