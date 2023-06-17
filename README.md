@@ -11,7 +11,7 @@
 # Para la opcion 2: Elipse
 ![image](https://github.com/SanguchoMela/Conicas_Packages/assets/117743859/85b0965f-826e-4041-b7f1-b9206b2fcce5)
 # Para la opcion 3: Hiperbole
-![image](https://github.com/SanguchoMela/Conicas_Packages/assets/117743859/4af3a10c-7c0d-4831-a8f8-1eff831b5692)
+![image](https://github.com/SanguchoMela/Conicas_Packages/assets/117743859/62dd32d1-f3e3-4769-add6-1f9fdcd252d5)
 # Para la opcion 4: Parabola
 ![image](https://github.com/SanguchoMela/Conicas_Packages/assets/117743859/5f2b85e4-c7a8-4b70-811a-b82ea70aea92)
 # Para la opcion 5: Salir
